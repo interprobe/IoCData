@@ -1,0 +1,6 @@
+peek.openssl-digicert[.]xyz
+api.wensente[.]xyz
+update.microsoftlab[.]top
+api.microsoftlab[.]xyz
+update.microupdate[.]xyz
+update.ajaxrenew[.]com
