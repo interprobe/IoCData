@@ -1,0 +1,5 @@
+# source: https://unit42.paloaltonetworks.com/cuba-ransomware-tropical-scorpius/
+
+B5978cf7d0c275d09bedf09f07667e139ad7fed8f9e47742e08c914c5cf44a53
+324ccd4bf70a66cc14b1c3746162b908a688b2b124ad9db029e5bd42197cfe99
+3496e4861db584cc3239777e137f4022408fb6a7c63152c57e019cf610c8276e

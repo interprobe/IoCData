@@ -1,0 +1,4 @@
+# source: https://unit42.paloaltonetworks.com/cuba-ransomware-tropical-scorpius/
+
+CombinedResidency[.]org
+optasko[.]com

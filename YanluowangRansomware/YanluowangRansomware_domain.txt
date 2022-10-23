@@ -1,0 +1,17 @@
+# source: https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html
+
+cisco-help[.]cf 
+cisco-helpdesk[.]cf 
+ciscovpn1[.]com 
+ciscovpn2[.]com 
+ciscovpn3[.]com 
+devcisco[.]com 
+devciscoprograms[.]com 
+helpzonecisco[.]com 
+kazaboldu[.]net 
+mycisco[.]cf 
+mycisco[.]gq 
+mycisco-helpdesk[.]ml 
+primecisco[.]com 
+pwresetcisco[.]com  
+ 

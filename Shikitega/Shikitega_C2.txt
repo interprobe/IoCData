@@ -1,0 +1,4 @@
+# source: https://www.csa.gov.sg/singcert/Alerts/al-2022-048
+
+main[.]cloudfronts[.]net
+dash[.]cloudflare[.]ovh
