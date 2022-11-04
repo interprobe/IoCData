@@ -1,0 +1,4 @@
+# Source: https://www.zimperium.com/blog/we-smell-a-ratmilad-mobile-spyware/
+
+http[://]textme[.]network
+api[.]numrent[.]shop

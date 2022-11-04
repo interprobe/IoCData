@@ -1,0 +1,5 @@
+# Source: https://www.zimperium.com/blog/we-smell-a-ratmilad-mobile-spyware/
+
+com.example.confirmcode
+com.example.confirmcodf
+com.example.confirmcodg
