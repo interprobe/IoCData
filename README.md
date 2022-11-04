@@ -58,18 +58,18 @@ IoC Feed for security analysts etc.
 - <a href="https://github.com/interprobe/IoCData/blob/main/YanluowangRansomware/YanluowangRansomware_IP.txt">IP Address Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/YanluowangRansomware/YanluowangRansomware_mail.txt">Mail Data</a>
 
-# URSNIF
+## URSNIF
 - <a href="https://github.com/interprobe/IoCData/blob/main/URSNIF/URSNIF_domain.txt">Domain Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/URSNIF/URSNIF_hash.txt">Hash Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/URSNIF/URSNIF_IP.txt">IP Address Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/URSNIF/URSNIF_LDR4.yara">YARA Rule</a>
 
-# MagniberRansomware
+## MagniberRansomware
 - <a href="https://github.com/interprobe/IoCData/blob/main/MagniberRansomware/MagniberRansomware_domain.txt">Domain Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/MagniberRansomware/MagniberRansomware_hash.txt">Hash Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/MagniberRansomware/win_magniber_auto.yara">YARA Rule</a>
 
-# RatMilad SpyWare
+## RatMilad SpyWare
 - <a href="https://github.com/interprobe/IoCData/blob/main/RatMilad/RatMilad_C2.txt">C2 Data</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/RatMilad/RatMilad_application_names.txt">Application Names</a>
 - <a href="https://github.com/interprobe/IoCData/blob/main/RatMilad/RatMilad_hash.txt">Hash Data</a>
