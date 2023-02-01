@@ -95,3 +95,11 @@ IoC Feed for security analysts etc.
 
 ## Raspberry Robin
 - <a href="https://github.com/interprobe/IoCData/blob/main/Raspberry_Robin/raspberryrobin_hash.txt">Hash Data</a>
+
+## Hook Malware
+- <a href="https://github.com/interprobe/IoCData/blob/main/HookMalware/hook_C2.txt">C2 Data</a>
+- <a href="https://github.com/interprobe/IoCData/blob/main/HookMalware/hook_application_names.txt">Application Names</a>
+- <a href="https://github.com/interprobe/IoCData/blob/main/HookMalware/hook_hash.txt">Hash Data</a>
+
+## SwiftSlicer
+- <a href="https://github.com/interprobe/IoCData/blob/main/SwiftSlicer/swiftslicer_hash.txt">Hash Data</a>
